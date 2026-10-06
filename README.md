@@ -4,7 +4,7 @@
 
 I build *production-oriented backend systems* with a focus on reliability, scalability, and clean architecture.
 
-My main stack is *\*C# / ASP.NET Core*, with hands-on experience building systems around:
+My main stack is *C# / ASP.NET Core*, with hands-on experience building systems around:
 
 * *ASP.NET Core & REST APIs*
 * *Clean Architecture & SOLID*
